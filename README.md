@@ -231,3 +231,4 @@ if(right_sensor_state == HIGH && left_sensor_state == HIGH)
     Maaf, browser Anda tidak mendukung tag video.
 </video>
 
+https://github.com/RobethMatthew/Line-Following-Robot/assets/154966694/ede516ba-6d77-46b6-8e6a-df269367a2c5
