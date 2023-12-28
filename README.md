@@ -220,8 +220,8 @@ if(right_sensor_state == HIGH && left_sensor_state == HIGH)
 
 
 ## Dokumentasi
-Lihat video demonstrasi di bawah ini:
+<video width="320" height="240" controls>
+    <source src="https://github.com/RobethMatthew/Line-Following-Robot/blob/main/Video%20Demo-line%20following%20robot.mp4" type="video/mp4">
+    Maaf, browser Anda tidak mendukung tag video.
+</video>
 
-[![Video Demonstrasi](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/FNjX4f9GVqE?si=8ZKNM0ezp_rQqwze)https://youtube.com/shorts/FNjX4f9GVqE?si=8ZKNM0ezp_rQqwze)
-
-> Klik gambar untuk menonton video.
